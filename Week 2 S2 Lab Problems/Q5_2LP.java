@@ -1,5 +1,5 @@
 import java.util.*;
-public class Q5 {
+public class Q5_2LP {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> emails = new ArrayList<>();

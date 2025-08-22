@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class Q1 {
+public class Q1_2LP {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
@@ -33,6 +33,7 @@ public class Q1 {
      * @return List of starting indices where substring occurs
      */
     public static ArrayList<Integer> findAllOccurrences(String text, String substring) {
+
         ArrayList<Integer> occurrences = new ArrayList<>();
         int index = 0;
         while ((index = text.indexOf(substring, index)) != -1) {
@@ -72,6 +73,7 @@ public class Q1 {
         return resultBuilder.toString();
     }
     /**
+
      * Compares two strings and returns true if they are equal.
      * @param manualResult Result from manual replacement
      * @param builtinResult Result from built-in replace method

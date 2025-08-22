@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.HashMap;
-public class Q2 {
+public class Q2_2PP {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a sentence with mixed formatting:");

@@ -1,4 +1,4 @@
-public class Q4 {
+public class Q4_2PP {
     public static void main(String[] args) {
         int iterations = 10000;
 

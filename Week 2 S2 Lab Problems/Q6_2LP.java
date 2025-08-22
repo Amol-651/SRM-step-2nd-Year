@@ -1,5 +1,5 @@
 import java.util.*;
-public class Q6 {
+public class Q6_2LP {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
