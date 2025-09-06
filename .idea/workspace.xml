@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c193a47-9f22-4b50-b6b1-aa1a5811f99f" name="Changes" comment="Week 2 S2 Practice Problems">
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q1_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q2_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q3_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q4_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q5_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q6_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q7_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/HW Problems/Q8_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Lab Problems/Q1_3LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Lab Problems/Q2_3LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Lab Problems/Q3_3LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Lab Problems/Q4_3LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Practice Problems/Q1_3PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Practice Problems/Q2_3PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Practice Problems/Q3_3PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Practice Problems/Q4_3PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/HW Problems /Q1_4AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/HW Problems /Q2_4AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/HW Problems /Q3_4AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/HW Problems /Q4_4AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Lab Problems /Q1_4LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Lab Problems /Q2_4LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Practice Problems /Q1_4PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Practice Problems /Q2_4PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Practice Problems /Q3_4PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Practice Problems /Q4_4PP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Assignments Problem (HW)/CharFrequencyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Assignments Problem (HW)/FirstNonRepeating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Assignments Problem (HW)/FrequencyNestedLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Assignments Problem (HW)/FrequencyUsingUnique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Assignments Problem (HW)/PalindromeCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Assignments Problem (HW)/UniqueCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Lab Problem/CharacterTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Lab Problem/MinMaxWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Lab Problem/SplitString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Lab Problem/StringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Lab Problem/VowelConsonantCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1 - Lab Problem/WordLengths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Java_String/S1_Java_String.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Java_String/StringArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Java_String/StringManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Java_String/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Java_String/TextProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Assignment Problems/Q1_2AP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Assignment Problems/Q2_2AP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Assignment Problems/Q3_2AP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Assignment Problems/Q4_2AP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Assignment Problems/Q5_2AP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Assignment Problems/Q6_2AP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Lab Problems/Q1_2LP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Lab Problems/Q2_2LP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Lab Problems/Q3_2LP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Lab Problems/Q4_2LP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Lab Problems/Q5_2LP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Lab Problems/Q6_2LP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Practice Problems/Q1_2PP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Practice Problems/Q2_2PP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Practice Problems/Q3_2PP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 S2 Practice Problems/Q4_2PP.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Amol-651&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Amol-651/SRM-step-2nd-Year.git&quot;,
+    &quot;accountId&quot;: &quot;d5df4993-92e1-43b4-9115-80fc827cc045&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30xCRqdYxzHhl0diAytchOwCkqM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CharFrequencyArray.executor": "Run",
+    "Application.Motorcycle.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q1_2AP.executor": "Run",
+    "Application.Q1_3AP.executor": "Run",
+    "Application.Q1_3LP.executor": "Run",
+    "Application.Q1_3PP.executor": "Run",
+    "Application.Q1_4AP.executor": "Run",
+    "Application.Q1_4LP.executor": "Run",
+    "Application.Q1_4PP.executor": "Run",
+    "Application.Q2_2AP.executor": "Run",
+    "Application.Q2_3AP.executor": "Run",
+    "Application.Q2_3LP.executor": "Run",
+    "Application.Q2_3PP.executor": "Run",
+    "Application.Q2_4AP.executor": "Run",
+    "Application.Q2_4LP.executor": "Run",
+    "Application.Q2_4PP.executor": "Run",
+    "Application.Q3_2AP.executor": "Run",
+    "Application.Q3_3AP.executor": "Run",
+    "Application.Q3_3LP.executor": "Run",
+    "Application.Q3_4AP.executor": "Run",
+    "Application.Q4_2AP.executor": "Run",
+    "Application.Q4_3AP.executor": "Run",
+    "Application.Q4_3LP.executor": "Run",
+    "Application.Q4_3PP.executor": "Run",
+    "Application.Q4_4AP.executor": "Run",
+    "Application.Q5_2AP.executor": "Run",
+    "Application.Q5_3AP.executor": "Run",
+    "Application.Q6_2AP.executor": "Run",
+    "Application.Q6_3AP.executor": "Run",
+    "Application.Q7_3AP (1).executor": "Run",
+    "Application.Q7_3AP.executor": "Run",
+    "Application.Q8_3AP.executor": "Run",
+    "Application.S1.executor": "Run",
+    "Application.SplitString.executor": "Run",
+    "Application.StringArrays.executor": "Run",
+    "Application.StringLength.executor": "Run",
+    "Application.StringManipulation.executor": "Run",
+    "Application.VowelConsonantCount.executor": "Run",
+    "Application.q1.executor": "Run",
+    "Application.q2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/amolsaxena/Desktop/STEP_2ndYear",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/S1_Java_String" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Q4_4PP">
+    <configuration name="Q1_4PP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_4PP" />
+      <module name="STEP_2ndYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2_4LP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_4LP" />
+      <module name="STEP_2ndYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2_4PP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_4PP" />
+      <module name="STEP_2ndYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3_4PP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_4PP" />
+      <module name="STEP_2ndYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4_4PP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4_4PP" />
+      <module name="STEP_2ndYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q4_4PP" />
+        <item itemvalue="Application.Q3_4PP" />
+        <item itemvalue="Application.Q2_4PP" />
+        <item itemvalue="Application.Q1_4PP" />
+        <item itemvalue="Application.Q2_4LP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c193a47-9f22-4b50-b6b1-aa1a5811f99f" name="Changes" comment="" />
+      <created>1754559831883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754559831883</updated>
+      <workItem from="1754559832988" duration="515000" />
+      <workItem from="1754560889530" duration="306000" />
+      <workItem from="1754807585200" duration="40000" />
+      <workItem from="1755164379223" duration="1234000" />
+      <workItem from="1755165885470" duration="4393000" />
+      <workItem from="1755852037978" duration="5576000" />
+      <workItem from="1757160550040" duration="5617000" />
+    </task>
+    <task id="LOCAL-00001" summary="Week 1 - S1 - Practice Problem">
+      <option name="closed" value="true" />
+      <created>1755164542449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755164542449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week 1 - S1 - Practice Problem">
+      <option name="closed" value="true" />
+      <created>1755169232410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755169232410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Week 1 - S1 - Practice Problem">
+      <option name="closed" value="true" />
+      <created>1755169993433</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755169993433</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Week 2 S2 Lab Problems">
+      <option name="closed" value="true" />
+      <created>1755854626207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755854626207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Week 2 S2 Practice Problems">
+      <option name="closed" value="true" />
+      <created>1755854952869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755854952869</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Week 2 S2 Practice Problems">
+      <option name="closed" value="true" />
+      <created>1755857500448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755857500448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project commit for STEP 2nd Year" />
+    <MESSAGE value="Week 1 - S1 - Practice Problem" />
+    <MESSAGE value="Week 2 S2 Lab Problems" />
+    <MESSAGE value="Week 2 S2 Practice Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 2 S2 Practice Problems" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week2_S2_Lab_Problem/Q5.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/S1 - Assignments Problem (HW)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S1 - Lab Problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S1_Java_String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2 S2 Assignment Problems " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2 S2 Lab Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2 S2 Practice Peoblems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2 S2 Practice Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_S2_Lab_Problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/HW Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Lab Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Practice Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2 S2 Assignment Problems (HW)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2/HW Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2/Lab Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2/Practice Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3/HW Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3/Lab Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3/Practice Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4/HW Problems " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4/Lab Problems " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4/Practice Problems " isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
