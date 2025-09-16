@@ -4,24 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c193a47-9f22-4b50-b6b1-aa1a5811f99f" name="Changes" comment="Week 3 and Week 4">
-      <change afterPath="$PROJECT_DIR$/WEEK 5/HW Problems/Q1_5AP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/HW Problems/Q2_5AP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/HW Problems/Q3_5AP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/HW Problems/Q4_5AP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/HW Problems/Q5_5AP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Lab Problems/Q1_5LP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Lab Problems/Q2_5LP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Lab Problems/Q3_5LP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Lab Problems/Q4_5LP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Lab Problems/Q5_5LP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Practice Problems/Q1_5PP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Practice Problems/Q3_5PP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Practice Problems/Q4_5PP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 6/Practice Problems/Q1_6PP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 6/Practice Problems/Q2_6PP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STEP_2ndYear.iml" beforeDir="false" afterPath="$PROJECT_DIR$/STEP_2ndYear.iml" afterDir="false" />
+    <list default="true" id="6c193a47-9f22-4b50-b6b1-aa1a5811f99f" name="Changes" comment="Week 5 and Week 6">
+      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q1_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q1_6AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q2_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q2_6AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q3_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q3_6AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q4_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q4_6AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q1_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q1_6LP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q2_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q2_6LP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q3_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q3_6LP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q4_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q4_6LP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +202,7 @@
       <workItem from="1755852037978" duration="5576000" />
       <workItem from="1757160550040" duration="5906000" />
       <workItem from="1757401727741" duration="105000" />
-      <workItem from="1758012319210" duration="2851000" />
+      <workItem from="1758012319210" duration="3188000" />
     </task>
     <task id="LOCAL-00001" summary="Week 1 - S1 - Practice Problem">
       <option name="closed" value="true" />
@@ -277,7 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757175184092</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Week 5 and Week 6">
+      <option name="closed" value="true" />
+      <created>1758016569129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758016569129</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Week 5 and Week 6">
+      <option name="closed" value="true" />
+      <created>1758016753403</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758016753403</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +307,8 @@
     <MESSAGE value="Week 2 S2 Lab Problems" />
     <MESSAGE value="Week 2 S2 Practice Problems" />
     <MESSAGE value="Week 3 and Week 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 3 and Week 4" />
+    <MESSAGE value="Week 5 and Week 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 5 and Week 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
