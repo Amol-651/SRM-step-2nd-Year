@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c193a47-9f22-4b50-b6b1-aa1a5811f99f" name="Changes" comment="Week 5 and Week 6">
-      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q1_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q1_6AP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q2_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q2_6AP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q3_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q3_6AP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/HW Problems/Q4_6AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/HW Problems/Q4_6AP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q1_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q1_6LP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q2_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q2_6LP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q3_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q3_6LP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Lab Problems/Q4_6LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/Lab Problems/Q4_6LP.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c193a47-9f22-4b50-b6b1-aa1a5811f99f" name="Changes" comment="Week 5 and Week 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +193,7 @@
       <workItem from="1755852037978" duration="5576000" />
       <workItem from="1757160550040" duration="5906000" />
       <workItem from="1757401727741" duration="105000" />
-      <workItem from="1758012319210" duration="3188000" />
+      <workItem from="1758012319210" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="Week 1 - S1 - Practice Problem">
       <option name="closed" value="true" />
@@ -284,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758016753403</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Week 5 and Week 6">
+      <option name="closed" value="true" />
+      <created>1758016899651</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758016899651</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
