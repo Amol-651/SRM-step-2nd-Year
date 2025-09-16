@@ -24,6 +24,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Week 4/HW Problems " isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week 4/Lab Problems " isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week 4/Practice Problems " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEEK 5/HW Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEEK 5/Lab Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEEK 5/Practice Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEEK 6/HW Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEEK 6/Lab Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEEK 6/Practice Problems" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
